@@ -19,4 +19,5 @@
 5. 导入导出：
    - 可以导入其他JSON格式的诗词数据
    - 可以导出当前所有诗词数据为JSON文件"""
-![1740720061352](https://github.com/user-attachments/assets/41794993-4ad3-4320-b4ef-971285ef618b)
+![image](https://github.com/user-attachments/assets/047b7deb-863b-444c-a485-f28c367d48ff)
+
