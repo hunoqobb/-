@@ -23,6 +23,7 @@
 6. 导入导出：
    - 可以导入Excel、Csv、Json格式的诗词数据
    - 可以导出当前所有诗词数据为Excel、Csv、Json文件"""
-![Uploading 1740842497536.png…]()
 
+
+![1740842497536](https://github.com/user-attachments/assets/d81c2e65-2718-4b4e-8f6c-53336fb18b25)
 
