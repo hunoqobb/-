@@ -1,0 +1,20 @@
+# 安装说明：
+# 1. 打开命令提示符(CMD)或终端
+# 2. 进入程序所在目录
+# 3. 运行以下命令安装所有依赖：
+#    pip install -r requirements.txt
+#
+# 如果遇到权限问题，可以尝试：
+#    pip install -r requirements.txt --user
+# 
+# 或者使用管理员权限运行命令提示符
+#
+# 单独安装特定功能的依赖：
+# - 拼音功能：pip install pypinyin
+# - 朗读功能：pip install pyttsx3 pywin32
+# - Excel支持：pip install openpyxl
+
+pypinyin>=0.49.0
+pyttsx3>=2.90
+pywin32>=306; platform_system == "Windows"
+openpyxl>=3.1.2 
